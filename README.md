@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dzmitrykliapkou" alt="dzmitrykliapkou" /></a> </p>
 
-- 🔭 I’m currently working on [Protofire](https://protofire.io)
+- 🔭 I’m currently working for [Protofire](https://protofire.io)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/dzmitrykliapkou-2155821a5/](https://www.linkedin.com/in/dzmitrykliapkou-2155821a5/)
 
